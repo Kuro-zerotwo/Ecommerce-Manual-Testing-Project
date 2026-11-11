@@ -1,7 +1,6 @@
 # E-Commerce Manual Testing Project
 
 **Application:** [Tricentis Demo Web Shop](https://demowebshop.tricentis.com/)  
-**Level:** Beginner / Fresher Manual QA Portfolio
 
 ---
 
@@ -10,7 +9,7 @@
 | Folder | Description |
 |---|---|
 | `01_Project_Documents` | Test Plan and Requirement Analysis |
-| `02_Test_Scenarios` | High-level test scenarios (what to test) |
+| `02_Test_Scenarios` | High-level scenarios (what to test) |
 | `03_Test_Cases` | Test case register (how to test) |
 | `04_Requirement_Traceability` | RTM linking requirements, scenarios and test cases |
 | `05_Bug_Reports` | Bug / observation log. Unconfirmed behaviours are not presented as confirmed defects |
